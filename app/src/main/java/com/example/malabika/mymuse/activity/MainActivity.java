@@ -1,9 +1,11 @@
-package com.example.malabika.mymuse;
+package com.example.malabika.mymuse.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+import com.example.malabika.mymuse.R;
+
+public class MainActivity extends BaseActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
